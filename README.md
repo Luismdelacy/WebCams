@@ -6,7 +6,7 @@ apt-get install python3  --> Si no lo tienes instalado
 
 apt-get install git --> Si no lo tienes instalado
 
-git clone https://github.com/luismariadelacy/camarasweb
+git clone https://github.com/luismdelacy/camarasweb
 
 pip3 install requests
 
